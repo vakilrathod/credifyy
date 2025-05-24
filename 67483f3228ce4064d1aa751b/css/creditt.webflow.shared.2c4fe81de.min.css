@@ -4096,7 +4096,7 @@ figcaption {
 }
 
 .mobile_in-hand {
-    width: 30rem
+    width: 29rem
 }
 
 .mobile_in-hand-container {
@@ -5122,7 +5122,7 @@ figcaption {
     width: 100%
 }
 
-.form_block.is_repayment {
+.form_block.is_Credit Card {
     margin-top: 2rem
 }
 
@@ -5712,14 +5712,14 @@ figcaption {
     height: 5rem
 }
 
-.repayment_icon {
+.Credit Card_icon {
     z-index: 0;
     position: absolute;
     top: 1.4rem;
     right: -1.4rem
 }
 
-.section_repayment-option {
+.section_Credit Card-option {
     background-color: #ffebdd
 }
 
